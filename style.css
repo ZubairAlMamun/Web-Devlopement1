@@ -1,0 +1,21 @@
+.cont{
+    background-color: rgb(210, 223, 223);
+}
+.bbb{
+    border:2px solid gray;
+    border-radius: 30px;
+}
+.bb{
+    border:2px solid gray;
+    border-radius: 5px;
+}
+.req {
+    color: red;
+}
+.s1{
+    
+    height: 240px;
+}
+.s2{
+    width: 270px;
+}
