@@ -1,0 +1,38 @@
+.cont{
+    background-color: rgb(210, 223, 223);
+}
+.bbb{
+    border:2px solid gray;
+    border-radius: 30px;
+}
+.bb{
+    border:0px solid gray;
+    border-radius: 5px;
+}
+.bb2{
+    border:2px solid gray;
+    border-radius: 5px;
+}
+.req {
+    color: red;
+}
+.s1{
+    
+    height: 240px;
+}
+.s2{
+    width: 270px;
+}
+.im{
+    height: 300px;
+    width: 500px;
+    }
+.st{
+    box-shadow:5px 5px 25px 25px rgb(177, 175, 175);
+    border-radius: 10px;
+
+}
+.st1{
+    width: 300px;
+    height: auto;
+}
